@@ -2,13 +2,13 @@
 
 This package will enable you to draw any triangle on screen and see its measurements.
 
-##Installation
+## Installation
 Install this package using `pip`
 ```
 pip install triangle_drawer
 ```
 
-##Usage
+## Usage
 You can either create a triangle using the three side lengths:
 ```python
 from triangle_drawer import Triangle
@@ -21,6 +21,6 @@ from triangle_drawer import Triangle
 
 Triangle(3.5, 4.5, angle=45.6).draw()
 ```
-##License
+## License
 
 The project is licensed under the: MIT license.
