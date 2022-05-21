@@ -23,4 +23,4 @@ Triangle(3.5, 4.5, angle=45.6).draw()
 ```
 ## License
 
-The project is licensed under the: MIT license.
+The project is licensed under the MIT license.
